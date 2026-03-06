@@ -1,11 +1,11 @@
 Clustering Credit-Challenged Households Using SCF 2019 Data
-📘 Overview
+ Overview
 
 This project, completed as part of the WorldQuant University Applied Data Science Lab, explores real-world financial data from the 2019 Survey of Consumer Finances (SCF) to identify and analyze credit-challenged households in the United States.
 
 It applies unsupervised learning and data visualization techniques to understand household credit access, income distribution, and small business ownership patterns.
 
-🧩 Key Skills & Concepts
+ Key Skills & Concepts
 
 Data Preprocessing: Cleaning and analyzing survey-based financial datasets
 
@@ -17,7 +17,7 @@ Interactive Visualization: Building a Dash web application for real-time explora
 
 Model Evaluation: Comparing inertia and silhouette scores to determine optimal clusters
 
-📊 Project Workflow
+ Project Workflow
 
 Exploratory Data Analysis (EDA) — Visualized correlations and income distributions.
 
@@ -31,7 +31,7 @@ Interactive Dash App — Created an interactive dashboard for cluster exploratio
 
 Final Assignment — Applied full workflow on small business owner data from SCF 2019.
 
-⚙️ Tools & Technologies
+Tools & Technologies
 
 Python
 
@@ -41,7 +41,7 @@ Seaborn, Matplotlib, Plotly
 
 Dash (for web dashboard)
 
-📈 Results
+Results
 
 Identified 3 key household clusters based on income, debt, and assets.
 
@@ -49,6 +49,6 @@ Developed a PCA-based visualization that clearly separated business owners.
 
 Built a fully interactive dashboard to communicate findings effectively.
 
-🧠 Key Takeaways
+Key Takeaways
 
 This project demonstrated how unsupervised learning can uncover meaningful socioeconomic patterns and how interactive visualization enhances communication of data-driven insights.
